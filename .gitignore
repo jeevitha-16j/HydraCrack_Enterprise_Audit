@@ -1,0 +1,17 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+reports/*.json
+reports/*.csv
+reports/*.db
+reports/*.sqlite
+reports/*.sqlite3
+*.log
+.DS_Store
+Thumbs.db
